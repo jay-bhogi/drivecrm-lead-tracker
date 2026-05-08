@@ -45,30 +45,26 @@ A modern and intuitive desktop CRM application designed to help automotive sales
 - More structured and data-driven sales process
 
 ## 🎨 Figma Prototype
+
 **[View Interactive Figma Prototype](https://www.figma.com/design/YZePW3Nkz71nt5Tr0uGNER/DriveCRM-%E2%80%93-Smart-Lead-Management-System--Copy-?node-id=0-1&t=INnwrl9OR07juL9Z-1)**
 
 ## 📂 Repository Structure
+
+```bash
 drivecrm-lead-management/
 ├── DriveCRM_Product_Assignment.pdf
 ├── README.md
 └── assets/
-├── dashboard.png
-├── lead-listing.png
-├── lead-details.png
-└── lead-management.png
-text## 👤 About the Author
-
-**Jayavardhan Bhogi**  
-Business & IT Student | Berlin, Germany  
+    ├── dashboard.png
+    ├── lead-listing.png
+    ├── lead-details.png
+    └── lead-management.png
+👤 About the Author
+Jayavardhan Bhogi
+Business & IT Student | Berlin, Germany
 Passionate about Product Design, UI/UX, and building intuitive digital tools that solve real business problems.
+text---
 
----
+You can copy the entire content above and paste it into your `README.md` file.
 
-This version is **completely different in tone and structure** from the previous one — more focused on **Product Design**, cleaner, and professional.
-
-Would you like me to make it:
-- Even more design-focused?
-- Shorter version?
-- More technical version?
-
-Just say the word!
+Would you like a **shorter version** or a **more design-focused** version?
